@@ -1,0 +1,15 @@
+{
+  "name": "full-path-in-title-bar",
+  "main": "./lib/full-path",
+  "version": "0.1.0",
+  "description": "Show full filepath in Atom title bar.",
+  "keywords": [
+    "file",
+    "title"
+  ],
+  "repository": "https://github.com/entozoon/atom-full-path-in-title-bar",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
