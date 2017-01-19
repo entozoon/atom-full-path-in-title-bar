@@ -1,5 +1,7 @@
 # Full Path In Title Bar - Atom Package
 
+![Cheeky screenshot](http://i.imgur.com/NzvcQBA.png)
+
 ## Installation
 
 	apm install full-path-in-title-bar
